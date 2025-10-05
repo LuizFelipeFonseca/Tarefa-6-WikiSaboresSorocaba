@@ -145,7 +145,7 @@ main {
     padding-bottom: 0.5rem;
 }
 
-/* ESTILO DOS CARDS (DESTAQUES E RECOMENDAÇÕES) */
+/* ESTILO DOS CARDS (DESTAQUES E RECOMENDAÇÕES)*/
 .card-container {
     display: grid; /* Usa o sistema de Grid para criar um layout de colunas */
     /* Cria colunas flexíveis que se ajustam ao tamanho. Mínimo de 300px por card. */
